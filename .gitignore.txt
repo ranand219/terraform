@@ -1,1 +1,1 @@
-*/terraform.tfvars.tf
+*files/terraform.tfvars.tf
